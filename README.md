@@ -39,7 +39,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/Ganesh-Sonuen77/smart_macro_learner.git
+git clone( https://github.com/Ganesh-Sonune77/smart_micro_learner_tool )
 cd smart_macro_learner
 
 
